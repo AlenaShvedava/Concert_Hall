@@ -1,4 +1,4 @@
-**JDBC module practical tasks at Solvd Inc. internship**
+**JDBC MODULE practical tasks at Solvd Inc. internship**
 
 [**Concert Hall**](https://github.com/AlenaShvedava/SolvdLab/tree/main/ConcertHall)\
 My project "Concert Hall" describes the business model of the Concert Hall.
